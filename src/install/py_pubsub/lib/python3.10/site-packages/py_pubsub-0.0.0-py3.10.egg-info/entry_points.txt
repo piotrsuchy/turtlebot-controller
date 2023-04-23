@@ -1,0 +1,5 @@
+[console_scripts]
+controller = py_pubsub.controller:main
+odom_subscriber = py_pubsub.subscriber_member_function:main
+publisher = py_pubsub.publisher_member_function:main
+
